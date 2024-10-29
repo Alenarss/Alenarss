@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working as a Software Engineer, contributing to both frontend and backend testing of web applications. <br>👨🏻‍💻As a frontend web developer, I design and develop web applications.<br>👯 Exploring New Technologies And Tools.<br>🌱 I’m currently learning Web Development.<br>⚡ I have solid experience with Automated Testing, Selenium WebDriver, and API Testing tolls.
+🔭I'm currently working as a Software Engineer, contributing to both frontend and backend testing of web applications. <br>👨🏻‍💻As a frontend web developer, I design and develop web applications.<br>👯 Exploring New Technologies And Tools.<br>🌱 I’m currently learning Web Development.<br>⚡ I have solid experience with Automated Testing, Selenium WebDriver, and API Testing tools.
 
 
 # 💻 Tech Stack:
